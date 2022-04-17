@@ -11,3 +11,5 @@
 ## **第二部分：应用密码学导航**
 
 [Visual Studio中OpenSSL的使用（附大数计算代码）](https://github.com/Xiaoyiyi23/Blog/issues/4)
+
+[欧几里得算法](https://github.com/Xiaoyiyi23/Blog/issues/5)
