@@ -9,3 +9,5 @@
 [三、Burp Suite intruder模块学习小记](https://github.com/Xiaoyiyi23/Blog/issues/3)  
 
 ## **第二部分：应用密码学导航**
+
+[1](https://github.com/Xiaoyiyi23/Blog/issues/4)
