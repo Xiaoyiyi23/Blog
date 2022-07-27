@@ -20,7 +20,7 @@
 
 [五、RSA加密算法及其数字签名](https://github.com/Xiaoyiyi23/Blog/issues/8)
 
-## **第三部分：护网日记（数据整理牛马）**:mortar_board:
+## **第三部分：护网日记（数据整理工具人）**:mortar_board:
 
 [第一天]( )
 
