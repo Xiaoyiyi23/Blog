@@ -22,5 +22,5 @@
 
 ## **第三部分：护网日记（数据整理工具人）**:mortar_board:
 
-[第一天]( )
+[第一天](https://github.com/Xiaoyiyi23/Blog/issues/9)
 
