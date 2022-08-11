@@ -40,6 +40,8 @@
 
 [第八天](https://github.com/Xiaoyiyi23/Blog/issues/21)
 
+[最后一天](https://github.com/Xiaoyiyi23/Blog/issues/24)
+
 ## **第四部分：协会CTF刷题日记**:mortar_board:
 
 [2022-08-01](https://github.com/Xiaoyiyi23/Blog/issues/15)
@@ -55,3 +57,5 @@
 [2022-08-06](https://github.com/Xiaoyiyi23/Blog/issues/22)
 
 [2022-08-07](https://github.com/Xiaoyiyi23/Blog/issues/23)
+
+[2022-08-08](https://github.com/Xiaoyiyi23/Blog/issues/25)
