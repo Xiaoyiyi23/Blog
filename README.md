@@ -20,6 +20,8 @@
 
 [五、RSA加密算法及其数字签名](https://github.com/Xiaoyiyi23/Blog/issues/8)
 
+[六、密钥分发流程](https://github.com/Xiaoyiyi23/Blog/issues/29)
+
 ## **第三部分：HW日记（一个“数据整理工具人”的自述）**:mortar_board:
 
 ### 注：本日记不包含任何有关HW的敏感保密信息，单纯的生活日记（网安叔叔饶过我），毕竟我也接触不到:joy:
